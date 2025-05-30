@@ -1,4 +1,0 @@
-[console_scripts]
-battery_publisher = battery_monitor.battery_publisher:main
-battery_subscriber = battery_monitor.battery_subscriber:main
-

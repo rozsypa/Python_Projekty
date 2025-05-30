@@ -1,8 +1,0 @@
-setup.py
-battery_msg/__init__.py
-battery_msg.egg-info/PKG-INFO
-battery_msg.egg-info/SOURCES.txt
-battery_msg.egg-info/dependency_links.txt
-battery_msg.egg-info/top_level.txt
-battery_msg/msg/__init__.py
-battery_msg/msg/_battery_status.py

@@ -1,6 +1,0 @@
-{
-  "package_name": "battery_msg",
-  "non_idl_tuples": [
-    "/home/jr-machine/ros2_ws_battery/src/battery_msg:msg/BatteryStatus.msg"
-  ]
-}

@@ -1,5 +1,0 @@
-  File "/home/jr-machine/ros2_ws_battery/install/battery_monitor/lib/python3.10/site-packages/battery_monitor/battery_subscriber.py", line 14
-    ))
-     ^
-SyntaxError: unmatched ')'
-
